@@ -68,7 +68,7 @@
   },
   "dependencies": {
     "@ensdomains/address-encoder": "0.1.2",
-    "bip44-constants": "8.0.5",
+    "bip44-constants": "8.0.103",
     "bn.js": "5.1.1",
     "content-hash": "2.5.2",
     "hash.js": "1.1.7",
